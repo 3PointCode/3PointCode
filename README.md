@@ -1,6 +1,6 @@
 ## Hello world, my name is Tomasz 👋
 <div align="center">
-  Currently I am a student of Computer Science at University of Science and Technology in Wrocław 🎓
+  Currently I am a student of Computer Engineering at University of Science and Technology in Wrocław 🎓
   <br />🔭 I’m currently working on getting better with C#
   <br />🌱 I’m currently learning various algorithms
   <br />🏀 In my spare time I'm playing basketball
