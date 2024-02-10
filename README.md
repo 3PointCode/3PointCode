@@ -2,7 +2,7 @@
 <div align="center">
   Currently I am a student of Computer Engineering at University of Science and Technology in Wrocław 🎓
   <br />🔭 I’m currently working on getting better with C#
-  <br />🌱 I’m currently learning various algorithms
+  <br />🌱 I’m currently learning Rust
   <br />🏀 In my spare time I'm playing basketball
   <br />
   <br /> 💻 My tech skills:
